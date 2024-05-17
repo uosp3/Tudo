@@ -22,5 +22,12 @@ ativar o ambiente virtual:
     venv\Scripts\activate - pressionar TAB para autocompletar.
     deactivate - desativa o ambiente virtual
 
+criar o projeto:
+    django-admin startproject nomedoprojeto .
+    obs.: o ponto(.) ao final da linha acima indica que o projeto a ser criado deverá ficar dentro da pasta atual, sem criar uma subpasta.
+
+ativar o servidor:
+    python manage.py runserver
+
 vendo:
-    https://www.youtube.com/watch?v=DUsCDIedhC0&list=PLxPzsNPW0coIW7bqyw7GeuiIet5IHhYz_&index=10
+    https://www.youtube.com/watch?v=2GAPjhWORQQ&list=PLxPzsNPW0coIW7bqyw7GeuiIet5IHhYz_&index=14
